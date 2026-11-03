@@ -10,6 +10,7 @@
   <img alt="Platform Windows" src="https://img.shields.io/badge/installer-Windows-0078D6?logo=windows&logoColor=white">
   <img alt="Players 2 co-op" src="https://img.shields.io/badge/players-2%20co--op-FF6F91">
   <img alt="Code license MIT" src="https://img.shields.io/badge/code%20license-MIT-yellow">
+  <a href="https://itch.io/jam/game-off-2026"><img alt="GitHub Game Off 2026" src="https://img.shields.io/badge/GitHub%20Game%20Off-2026-8A4FFF?logo=github&logoColor=white"></a>
 </p>
 
 > [!IMPORTANT]
@@ -23,6 +24,20 @@
 A cozy two-player co-op platformer for one keyboard, written in Python with
 [pygame](https://www.pygame.org/). Bubu and Dudu race through endless,
 procedurally generated levels to reach their picnic blanket — together.
+
+## 🏆 GitHub Game Off 2026
+
+This game is an entry for [**GitHub Game Off 2026**](https://itch.io/jam/game-off-2026),
+the month-long game jam whose theme this year is **SHIFT**.
+
+**How it uses the theme:** the Shift key *is* the mechanic. Each player has their own
+Shift (Left Shift for Bubu, Right Shift for Dudu), and pressing it shifts the whole
+world between **day and night** — different enemies, different platforms, different
+dangers. Because either player can trigger it, *when* to shift becomes a co-op decision.
+
+**Made during the jam:** the base platformer existed before November; the day/night
+SHIFT mechanic, the night enemies (bats and owls), moon platforms and stars, and the
+new artwork were all built during Game Off.
 
 <p align="center">
   <img src="docs/screenshots/day-night.gif" alt="Pressing Shift turns day into night" width="640">
