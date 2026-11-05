@@ -35,9 +35,6 @@ Shift (Left Shift for Bubu, Right Shift for Dudu), and pressing it shifts the wh
 world between **day and night** — different enemies, different platforms, different
 dangers. Because either player can trigger it, *when* to shift becomes a co-op decision.
 
-**Made during the jam:** the base platformer existed before November; the day/night
-SHIFT mechanic, the night enemies (bats and owls), moon platforms and stars, and the
-new artwork were all built during Game Off.
 
 <p align="center">
   <img src="docs/screenshots/day-night.gif" alt="Pressing Shift turns day into night" width="640">
