@@ -13,8 +13,7 @@ Reach the picnic blanket TOGETHER. Collect hearts, stomp grumpy bees
 bounce on mushrooms, and work together at the plate-bridge!
 
 Run:  python main.py
-Assets: python make_assets.py  then  python extract_sprites.py
-        and  python import_assets.py
+Assets: python make_assets.py
 """
 import json
 import math
